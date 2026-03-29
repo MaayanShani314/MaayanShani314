@@ -43,6 +43,20 @@ Here are some ideas to get you started:
 
 ---
 
+### 💻 Languages
+Python • Java • Kotlin • C • C#
+
+### 📱 Mobile & Game Development
+Android (Kotlin) • Firebase • Unity
+
+### 🗄️ Databases
+PostgreSQL • SQL
+
+### ⚙️ Tools & Technologies
+Git • GitHub • Linux • HTML
+
+---
+
 ## 📬 Let's connect!
 
 <p align="left">
