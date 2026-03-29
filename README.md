@@ -17,91 +17,64 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
+
+<span style="display:inline-block; text-align:center;">
+
+<!-- Row 1 -->
 <a href="https://developer.android.com/studio">
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://kotlinlang.org/">
-<img src="https://skillicons.dev/icons?i=kotlin"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=java" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=python" style="margin:6px;" />
 </a>
-</td>
-</tr>
 
-<tr>
-<td align="center">
+<br/>
+
+<!-- Row 2 -->
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://skillicons.dev/icons?i=c"/>
+  <img src="https://skillicons.dev/icons?i=c" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img src="https://skillicons.dev/icons?i=cs"/>
+  <img src="https://skillicons.dev/icons?i=cs" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://firebase.google.com/">
-<img src="https://skillicons.dev/icons?i=firebase"/>
+  <img src="https://skillicons.dev/icons?i=firebase" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://unity.com/">
-<img src="https://skillicons.dev/icons?i=unity"/>
+  <img src="https://skillicons.dev/icons?i=unity" style="margin:6px;" />
 </a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
 <a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgresql"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" style="margin:6px;" />
 </a>
-</td>
 
-<td align="center">
+<br/>
+
+<!-- Row 3 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=html" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=git" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://github.com/Maayan-Shani">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" style="margin:6px;" />
 </a>
-</td>
-
-<td align="center">
 <a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux"/>
+  <img src="https://skillicons.dev/icons?i=linux" style="margin:6px;" />
 </a>
-</td>
-</tr>
-</table>
+
+</span>
+
+</p>
+
+---
 
 ## 📬 Let's connect!
 
