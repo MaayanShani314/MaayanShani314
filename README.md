@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" style="margin:6px;" /></a>
 <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" style="margin:6px;" /></a>
@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Maayan-Shani"><img src="https://skillicons.dev/icons?i=github" style="margin:6px;" /></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" style="margin:6px;" /></a>
 
-</p>
+</div>
+
 ---
 
 ## 📬 Let's connect!
