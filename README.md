@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 
 <!-- Row 1 -->
 
-<a href="https://developer.android.com/">
-  <img src="https://skillicons.dev/icons?i=android" />
-</a>
 <a href="https://developer.android.com/studio">
   <img src="https://skillicons.dev/icons?i=androidstudio" />
 </a>
@@ -75,6 +72,7 @@ Here are some ideas to get you started:
 </a>
 
 </p>
+
 
 
 
