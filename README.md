@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,c,cs,firebase,linux,unity,git,github,postgresql" />
+</p>
+
+
 
 ## 📬 Let's connect!
 
