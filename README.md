@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,c,cs,firebase,unity,postgresql,html,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,cs,firebase,unity,postgresql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,git,github,linux" />
 </p>
 
 ## 📬 Let's connect!
