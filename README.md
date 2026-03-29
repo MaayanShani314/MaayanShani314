@@ -22,52 +22,52 @@ Here are some ideas to get you started:
 <span style="display:inline-block; text-align:center;">
 
 <!-- Row 1 -->
-<a href="https://developer.android.com/studio">
-  <img src="https://skillicons.dev/icons?i=androidstudio" style="margin:6px;" />
+<a href="https://developer.android.com/studio" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=androidstudio" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://kotlinlang.org/">
-  <img src="https://skillicons.dev/icons?i=kotlin" style="margin:6px;" />
+<a href="https://kotlinlang.org/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=kotlin" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java" style="margin:6px;" />
+<a href="https://www.java.com/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=java" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python" style="margin:6px;" />
+<a href="https://www.python.org/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=python" style="margin:6px; vertical-align:middle;" />
 </a>
 
 <br/>
 
 <!-- Row 2 -->
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://skillicons.dev/icons?i=c" style="margin:6px;" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=c" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://skillicons.dev/icons?i=cs" style="margin:6px;" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=cs" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://firebase.google.com/">
-  <img src="https://skillicons.dev/icons?i=firebase" style="margin:6px;" />
+<a href="https://firebase.google.com/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=firebase" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://unity.com/">
-  <img src="https://skillicons.dev/icons?i=unity" style="margin:6px;" />
+<a href="https://unity.com/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=unity" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgresql" style="margin:6px;" />
+<a href="https://www.postgresql.org/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=postgresql" style="margin:6px; vertical-align:middle;" />
 </a>
 
 <br/>
 
 <!-- Row 3 -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" style="margin:6px;" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=html" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" style="margin:6px;" />
+<a href="https://git-scm.com/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=git" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://github.com/Maayan-Shani">
-  <img src="https://skillicons.dev/icons?i=github" style="margin:6px;" />
+<a href="https://github.com/Maayan-Shani" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=github" style="margin:6px; vertical-align:middle;" />
 </a>
-<a href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux" style="margin:6px;" />
+<a href="https://www.linux.org/" style="text-decoration:none; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=linux" style="margin:6px; vertical-align:middle;" />
 </a>
 
 </span>
