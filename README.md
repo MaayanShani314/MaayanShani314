@@ -17,10 +17,55 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,c,cs,firebase,linux,unity,git,github,postgresql" />
-</p>
+<p align="center">
 
+<!-- Row 1 -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+</a>
+
+<br/>
+
+<!-- Row 2 -->
+<a href="https://developer.android.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</a>
+<a href="https://unity.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=unity" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</a>
+
+<br/>
+
+<!-- Row 3 -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
+
+</p>
 
 
 ## 📬 Let's connect!
