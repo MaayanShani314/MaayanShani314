@@ -20,52 +20,62 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!-- Row 1 -->
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" />
+
+<a href="https://developer.android.com/">
+  <img src="https://skillicons.dev/icons?i=android" />
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" />
+<a href="https://developer.android.com/studio">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
 </a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+<a href="https://kotlinlang.org/">
+  <img src="https://skillicons.dev/icons?i=kotlin" />
 </a>
-<a href="https://www.java.com/" target="_blank">
+<a href="https://www.java.com/">
   <img src="https://skillicons.dev/icons?i=java" />
 </a>
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kotlin" />
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" />
 </a>
 
 <br/>
 
 <!-- Row 2 -->
-<a href="https://developer.android.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://skillicons.dev/icons?i=c" />
 </a>
-<a href="https://firebase.google.com/" target="_blank">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</a>
+<a href="https://firebase.google.com/">
   <img src="https://skillicons.dev/icons?i=firebase" />
 </a>
-<a href="https://unity.com/" target="_blank">
+<a href="https://unity.com/">
   <img src="https://skillicons.dev/icons?i=unity" />
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cs" />
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgresql" />
 </a>
 
 <br/>
 
 <!-- Row 3 -->
-<a href="https://git-scm.com/" target="_blank">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git" />
 </a>
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/Maayan-Shani">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linux.org/" target="_blank">
+<a href="https://www.linux.org/">
   <img src="https://skillicons.dev/icons?i=linux" />
 </a>
 
 </p>
+
 
 
 ## 📬 Let's connect!
